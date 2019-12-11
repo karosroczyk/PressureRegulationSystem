@@ -1,0 +1,10 @@
+﻿  c_level.cpp
+C:\Users\Lenovo\Desktop\c_level\dataHandler.h(29,57): warning C4305:  "inicjowanie": obcięcie z "double" do "_Ty"
+C:\Users\Lenovo\Desktop\c_level\dataHandler.h(29,57): warning C4305:         with
+C:\Users\Lenovo\Desktop\c_level\dataHandler.h(29,57): warning C4305:         [
+C:\Users\Lenovo\Desktop\c_level\dataHandler.h(29,57): warning C4305:             _Ty=Temperature
+C:\Users\Lenovo\Desktop\c_level\dataHandler.h(29,57): warning C4305:         ]
+C:\Users\Lenovo\Desktop\c_level\model.h(16,65): warning C4244:  "return": konwersja z "double" do "Temperature", możliwa utrata danych
+C:\Users\Lenovo\Desktop\c_level\model.h(17,71): warning C4244:  "return": konwersja z "double" do "Temperature", możliwa utrata danych
+C:\Users\Lenovo\Desktop\c_level\c_level.cpp(37,65): warning C4305:  "argument": obcięcie z "double" do "float"
+  c_level.vcxproj -> C:\Users\Lenovo\Desktop\c_level\Debug\c_level.exe
